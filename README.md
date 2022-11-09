@@ -20,5 +20,11 @@ Progress:
   - Created CSS and JS files to add a better look to the site
   - created account on Amazon AWS and GoDaddy for the web hosting and the Domain name registration
   - Followed the steps to deploy the app
-
+  
+Challenges:
+There were many challenges during the deployement face, for instance:
+  - The docker image was not pushing to the docker hub in order to connect to the vm
+      error occured: access denied
+      reason unknown since I was logged in and checked it as well
+ 
 
